@@ -1,0 +1,4 @@
+       8 file1.txt
+      29 file2.txt
+       7 file3.txt
+      44 total
